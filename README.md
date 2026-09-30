@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de la estudiante
+## Información del estudiante
 
 Javier Vazquez \[23212242]; L23212242@tijuana.tecnm.mx
 
